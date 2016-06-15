@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\takoyaki\desktop\c++\takoapp\app\app\main.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\takoyaki\desktop\c++\takoapp\app\app\main.cpp(230): warning C4018: '<': signed/unsigned mismatch
+  app.vcxproj -> C:\Users\Takoyaki\Desktop\C++\takoapp\app\Debug\app.exe

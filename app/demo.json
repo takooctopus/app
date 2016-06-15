@@ -1,0 +1,22 @@
+{
+   "premiums" : [
+      {
+         "email" : "jack@a",
+         "id" : 8,
+         "name" : "jack",
+         "password" : "asdad"
+      },
+      {
+         "email" : "mase@a",
+         "id" : 9,
+         "name" : "mase",
+         "password" : "adcxz"
+      },
+      {
+         "email" : "lhasdkj@a",
+         "id" : 11,
+         "name" : "lhasdkj",
+         "password" : "lhasdkj"
+      }
+   ]
+}

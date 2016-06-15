@@ -1,0 +1,24 @@
+{
+	"admins":
+	[
+		{
+			"id":1,
+			"name":"jack",
+			"email":"jack@a",
+			"password":"asdad"
+		},
+		{
+			"id":2,
+			"name":"mase",
+			"email":"mase@a",
+			"password":"adcxz"
+		},
+		{
+			"id":3,
+			"name":"lhasdkj",
+			"email":"lhasdkj@a",
+			"password":"lhasdkj"
+		}
+		
+	]
+}
